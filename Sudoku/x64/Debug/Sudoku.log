@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  CSudoku.cpp
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(138,20): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(139,23): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(140,23): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(147,34): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(148,37): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\CSudoku.cpp(149,39): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  Sudoku.cpp
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(43,33): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(44,36): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(45,38): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(49,32): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(50,35): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(51,37): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  Génération de code en cours...
+C:\Users\camil\Downloads\Sudoku V1\Sudoku\Sudoku\Sudoku.cpp(61): warning C4715: 'CSudoku::Soluciona' : les chemins de contrôle ne retournent pas tous une valeur
+  Sudoku.vcxproj -> C:\Users\camil\Downloads\Sudoku V1\Sudoku\x64\Debug\Sudoku.exe
